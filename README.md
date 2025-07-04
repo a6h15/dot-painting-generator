@@ -2,6 +2,7 @@
 
 This project is a little **dot painting generator** built using Python's `turtle` graphics library. Inspired by abstract pop-art styles (like Damien Hirst's dot paintings), it generates a grid of randomly colored dots to create a colorful digital artwork.
 
+![Dot Painting Screenshot](image.png)
 
 > 📹 A short [**demo video**](demo.mp4) is also included in the repository.
 
@@ -22,4 +23,4 @@ Make sure you have Python installed.
 ```bash
 git clone https://github.com/yourusername/dot-painting-generator.git
 cd dot-painting-generator
-python dot-pait-gen.py
+python dot-painting-gen.py
