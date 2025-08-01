@@ -7,7 +7,7 @@ This project is a little **dot painting generator** built using Python's `turtle
 
 > 📹 A short [**demo video**](demo.mp4) is also included in the repository.
 
-> <video src="demo.mp4" controls width="600"></video>
+<video src="demo.mp4" controls width="600"></video>
 
 ---
 
